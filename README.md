@@ -21,7 +21,7 @@ A minimalist, production‑ready Flutter starter that clones the clean look-and-
 
 ## 📦 Download
 
-* **Google Drive (source ZIP)**: **[Download the starter]([https://drive.google.com/uc?export=download&id=YOUR_FILE_ID](https://drive.google.com/file/d/168haX2fO24BEK5ETX946sCmop3YCqlTc/view?usp=sharing)https://drive.google.com/file/d/168haX2fO24BEK5ETX946sCmop3YCqlTc/view?usp=sharing)**
+* **Google Drive (source ZIP)**: **[Download the starter]((https://drive.google.com/file/d/168haX2fO24BEK5ETX946sCmop3YCqlTc/view?usp=sharing))**
   Replace `YOUR_FILE_ID` with your Drive file ID. In Drive: *Right‑click → Share → General access: Anyone with the link → Copy link*. The ID is the long string after `/d/`.
 
 * *(Optional)* **Google Drive (web build ZIP)**: export a web release (see below), zip the `build/web` folder, upload to Drive, and add a second link here for a no‑Flutter trial experience.
